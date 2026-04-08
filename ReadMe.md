@@ -1,6 +1,8 @@
 # Theory 2
 
-> Student Name: **YOUR_NAME**
+> Student Name: **Marouen Sakouhi**
+
+Github username: marsak96
 
 ![Website Screenshot](./docs/images/preview.png)
 
