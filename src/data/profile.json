@@ -1,50 +1,44 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Marouen Sakouhi - Software Development Student",
+    "description": "I'm a Computer Software Development student at NAIT in Edmonton",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
       "frameworkName": "React",
       "frameworkUrl": "https://react.dev/",
-      "author": "AI under the guidance of DanG-IT Professional"
+      "author": "Marouen Sakouhi"
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Marouen Sakouhi",
+    "jobTitle": "Computer Software Development Student",
+    "worksFor": "NAIT",
+    "location": "Edmonton, Alberta",
+    "countryCode": "CA",
+    "nationality": "Canadian",
+    "publisherName": "Marouen Sakouhi",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://github.com/marsak96",
+      "https://www.linkedin.com/"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Marouen Sakouhi",
+    "summary": "a Computer Software Development student at NAIT who enjoys building web apps and learning modern development tools",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/marsak96"
       },
       {
         "ariaLabel": "linkedin profile",
-        "screenReaderLabel": "Linkedin Profile",
+        "screenReaderLabel": "LinkedIn Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://www.linkedin.com/"
       }
     ],
     "supportLink": {
@@ -54,42 +48,42 @@
     },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "profile illustration for Marouen Sakouhi"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
-    "toolsIntro": "My primary tools of choice includes:",
+    "intro": "Hi, I'm Marouen, a software development student based in Edmonton.",
+    "toolsIntro": "Technologies and tools I use often include:",
     "tools": [
       "JavaScript",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Next.js",
+      "C#",
+      ".NET",
+      "HTML & CSS"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "I enjoy building projects that are clean, practical, and easy to use. I like improving layouts, solving coding problems, and turning class requirements into working applications.",
+    "approach": "I focus on learning by building. My goal is to write clear code, follow project requirements carefully, and keep improving step by step with every assignment and project."
   },
   "contacts": {
-    "title": "Let's start working together!",
+    "title": "Let's connect",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "marouensakouhi1@gmail.com",
+    "location": "Edmonton, Alberta, Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
-        "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "label": "GitHub",
+        "url": "https://github.com/marsak96"
       },
       {
-        "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/"
       },
       {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "label": "NAIT",
+        "url": "https://www.nait.ca/"
       }
     ]
   },
@@ -101,19 +95,22 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Currently studying Computer Software Development at NAIT and building portfolio projects."
   },
   "sections": {
     "schoolAssignment": {
       "title": "DMIT-2008 Theory 2",
       "href": "https://www.nait.ca/nait/marketing/new-media-and-it-programs",
       "target": "_blank",
-      "placeholder": "Final Graduating Class"
+      "placeholder": "Deployment and testing assignment portfolio build"
     },
     "comingSoon": {
       "title": "Coming Soon",
-      "message": "This area is reserved for a new component that is currently being designed.",
-      "cta": "Design in progress"
+      "message": "This area now shows live weather information for my location.",
+      "cta": "OpenWeather integration complete"
     }
+  },
+  "weather": {
+    "location": "Edmonton"
   }
 }
