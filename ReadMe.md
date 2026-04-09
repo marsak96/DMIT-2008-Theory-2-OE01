@@ -2,7 +2,7 @@
 
 > Student Name: **Marouen Sakouhi**
 
-Github username: marsak96
+> Github username: **marsak96**
 
 ![Website Screenshot](./docs/images/preview.png)
 
